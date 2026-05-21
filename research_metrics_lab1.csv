@@ -1,0 +1,10 @@
+Dataset,Image,k,MSE,PSNR(dB),SSIM
+bossbase,1.bmp,1,0.4866,51.26,0.9972
+bossbase,1.bmp,2,1.9525,45.22,0.9889
+bossbase,1.bmp,3,7.8181,39.20,0.9579
+medical,CXR1000_IM-0003-1001.bmp,1,0.4699,51.41,0.9937
+medical,CXR1000_IM-0003-1001.bmp,2,1.8759,45.40,0.9758
+medical,CXR1000_IM-0003-1001.bmp,3,7.5257,39.37,0.9162
+other,airplane00.bmp,1,0.4674,51.43,0.9951
+other,airplane00.bmp,2,1.8752,45.40,0.9809
+other,airplane00.bmp,3,7.5125,39.37,0.9310
